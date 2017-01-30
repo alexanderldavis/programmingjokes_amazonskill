@@ -39,7 +39,6 @@ var handlers = {
         this.emit('GetJoke');
     },
     'GetJoke': function () {
-        // Get a random space fact from the space facts list
         var jokeIndex = Math.floor(Math.random() * JOKES.length);
         var randomJoke = JOKES[jokeIndex];
 
