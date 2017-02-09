@@ -1,4 +1,4 @@
-# Programming Skills (Amazon Skill)
+# Programming Jokes (Amazon Skill)
 
 Don't you sometimes want a funny programming joke, but don't want to get up from your chair? Look no further! This is an Amazon Echo (Alexa) Skill that reads a programming-related joke.
 This app will be operational (published to the Amazon skill library)!
